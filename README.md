@@ -18,8 +18,8 @@ https://www.coursera.org/account/accomplishments/verify/XEL5S8CA2U7S
 https://www.coursera.org/account/accomplishments/records/FJCP4BKXHBZV
 - Course 3 - Python and Machine Learning for Asset Management - completed December 23, 2019
 https://www.coursera.org/account/accomplishments/verify/R5NTFNMF67P4
-- Course 4 - Python and Machine-Learning for Asset Management with Alternative Data Sets - in progress January 2020
-https://www.coursera.org/learn/machine-learning-asset-management-alternative-data/home/info
+- Course 4 - Python and Machine-Learning for Asset Management with Alternative Data Sets - completed January 17, 2020
+https://www.coursera.org/account/accomplishments/verify/F4S9SNELE8L2
 
 ## Johns Hopkins on Coursera 
 ### Data Science Specialization 
